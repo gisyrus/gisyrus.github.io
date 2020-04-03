@@ -262,7 +262,10 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .icon-rocket{ background-image: url(../../images/logos.png); background-position: 0px 0; }
 .icon-cut{ background-image: url(../../images/logos.png); background-position: 120px 0; }
 .icon-star{ background-image: url(../../images/logos.png); background-position: 60px 0; }
-
+.icon-k8s{ background-image: url(../../images/new_logos.png); background-position: 0px 0; }
+.icon-docker{ background-image: url(../../images/new_logos.png); background-position: 180px 0; }
+.icon-ansible{ background-image: url(../../images/new_logos.png); background-position: 120px 0; }
+.icon-rancher{ background-image: url(../../images/new_logos.png); background-position: 60px 0; }
 
 /* ---------------------------------
 10. FOOTER
